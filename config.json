@@ -1,4 +1,6 @@
 {
 	"isMaintenance" : false,
-	"message" : "점검 메세지 입니다."
+	"message" : "점검 메세지 입니다.",
+	"versionCode" : 128,
+	"versionName" : "1.2.0"
 }
